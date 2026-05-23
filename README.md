@@ -1,0 +1,1 @@
+Decision-support only. MatchHub accelerates recruitment operations by pre-sorting applicants, tracking committee pipelines, and generating structured recommendations. It does not automate hiring decisions. Final onboarding outcomes remain 100% human-driven and are validated through live interviews conducted by Committee Directors.
